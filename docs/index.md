@@ -28,8 +28,8 @@
 # Autores
 
 * Alex Kazuo Kodama
-* Gabriel Tortolio Fonseca 
-* Aluno 3
+* Gabriel tortolio fonseca 
+* Thomas Pinheiro Grandin
 * Aluno 4
 * Aluno 5
 * Aluno 6
