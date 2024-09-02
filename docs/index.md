@@ -29,7 +29,7 @@
 
 * Alex Kazuo Kodama
 * Gabriel tortolio fonseca 
-* Aluno 3
+* Thomas Pinheiro Grandin
 * Aluno 4
 * Aluno 5
 * Aluno 6
