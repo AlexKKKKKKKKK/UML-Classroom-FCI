@@ -28,7 +28,7 @@
 # Autores
 
 * Alex Kazuo Kodama
-* Aluno 2
+* Gabriel tortolio fonseca 
 * Aluno 3
 * Aluno 4
 * Aluno 5
