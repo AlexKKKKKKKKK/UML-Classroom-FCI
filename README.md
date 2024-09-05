@@ -1,12 +1,12 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Escola do Infinito*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Filhos do Rodrigo*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+
 
 # Documentação
 
