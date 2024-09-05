@@ -1,12 +1,12 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-# Projeto: Escola do Infinito
+# Projeto: Escola Infinito
 
 # Grupo: Filhos do Rodrigo
 
 # Descrição
 
-
+Projeto de sistema de presença para a Escola do Infinito.
 
 # Documentação
 
