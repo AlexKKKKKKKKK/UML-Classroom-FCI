@@ -1,8 +1,8 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-# Projeto: *Escola do Infinito*
+# Projeto: Escola do Infinito
 
-# Grupo: *Filhos do Rodrigo*
+# Grupo: Filhos do Rodrigo
 
 # Descrição
 
