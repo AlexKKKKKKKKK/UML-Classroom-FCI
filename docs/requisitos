@@ -1,0 +1,19 @@
+Requisitos Funcionais:
+	Constar presença
+	Login de aluno
+	Login de professor
+	Selecionar turma
+	Selecionar matéria
+	Mostrar faltas
+	Contestar faltas com documento médico
+	Retirar faltas
+	Manter uma base de dados relacional
+
+
+Requisitos Não-funcionais:
+	Funcionar 99.9% do tempo
+	O sistema deve ter um tempo de resposta rápido
+	O sistema deve ser seguro, armazenando os dados criptografados
+	Os alunos e os professores não podem acessar as áreas alheias
+
+
