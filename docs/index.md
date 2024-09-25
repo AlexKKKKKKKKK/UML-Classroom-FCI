@@ -1,48 +1,53 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao">Ciência da Computação</a></h3>
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+Escola do Infinito
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
-- [Diagrama de Atividades](#diagrama-de-atividades) 
-- [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
-- [Descrição dos Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de Classes](#diagrama-orientado-objetos)
-- [Diagrama de Estados](#diagrama-estrutura-componente)
-- [Diagrama de Implantação](#diagrama-de-hardware-software)
+- [Autores](#autores)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Análise de Requisitos Funcionais e Não-Funcionais](#análise-de-requisitos-funcionais-e-não-funcionais)
+- [Diagrama de Atividades](#diagrama-de-atividades)
+- [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
+- [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
+- [Diagrama de Sequência](#diagrama-de-sequência)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Estados](#diagrama-de-estados)
+- [Diagrama de Implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
 # Autores
 
 * Alex Kazuo Kodama
-* Gabriel tortolio fonseca 
+* Gabriel Tortolio Fonseca
 * Thomas Pinheiro Grandin
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+Sistema de controle de presença para a Escola do Infinito com emissão de relatórios de faltas e notificações por e-mail.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+**Requisitos Funcionais:**
+
+* Registrar faltas dos alunos
+* Gerar relatórios de faltas
+* Notificar por e-mail pais ou responsáveis em caso de falta excessiva
+* Recursos de acessibilidade
+* Autenticação de usuários
+
+**Requisitos Não Funcionais**
+
+* Web-based
+* Uso fácil e intuitivo
+* Deve estar diponível durante todo o horário de funcionamento da escola
+* Conformidade com a LGPD
 
 # Diagrama de Atividades
 
