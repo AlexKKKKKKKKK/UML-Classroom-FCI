@@ -51,7 +51,7 @@ Sistema de controle de presença para a Escola do Infinito com emissão de relat
 
 # Diagrama de Atividades
 
-![image] (DiagramaDeAtividades.png "DiagramaDeAtividades")
+![dda image] (DiagramaDeAtividades.png)
 
 # Diagrama de Casos de Uso
 
