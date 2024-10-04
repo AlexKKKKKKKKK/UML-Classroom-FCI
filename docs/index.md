@@ -51,7 +51,7 @@ Sistema de controle de presença para a Escola do Infinito com emissão de relat
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![alt text] (DiagramaDeAtividades.png "DiagramaDeAtividades")
 
 # Diagrama de Casos de Uso
 
