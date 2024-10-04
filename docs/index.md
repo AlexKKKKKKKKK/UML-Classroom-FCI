@@ -51,15 +51,67 @@ Sistema de controle de presença para a Escola do Infinito com emissão de relat
 
 # Diagrama de Atividades
 
-![dda image] (DiagramaDeAtividades.png)
+![alt text](DiagramaDeAtividades.png "Diagrama de Atividades")
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![alt text](DiagramaDeCasosDeUso.png "Diagrama de Casos de Uso")
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+**Nome do Caso de Uso:** Efetuar Login
+
+**Ator Principal:** Professor
+
+**Resumo:** Descreve as etapas de Login
+
+**Ações do professor:**
+
+2-Insere seu login e senha
+
+4-Professor entra no site
+
+**Ações do Sistema:**
+
+1-Sistema requisita credenciais
+
+3-Verifica se as credenciais são válidas
+
+**Fluxo de Exceção**
+
+Caso as credenciais forem inválidas tentar de novo, até atingir limite de tentativas
+
+**Nome do Caso de Uso:** Selecionar Turma
+
+**Ator Principal:** Professor
+
+**Resumo:** Descreve as etapas de Selecionar a Turma
+
+**Ações do professor:**
+
+1-Seleciona a turma
+
+**Ações do Sistema:**
+
+2-Sistema mostra a turma
+
+**Nome do Caso de Uso:** Fazer Chamada
+
+**Ator Principal:** Professor
+
+**Resumo:** Descreve as etapas de Fazer Chamada
+
+**Ações do professor:**
+
+1-Professor faz a chamada
+
+**Ações do Sistema:**
+
+2-Sistema verifica se a presença está acima de 80%
+
+**Fluxo de Exceção**
+
+Caso aluno esteja com presença abaixo de 80%, notifica os responsáveis
 
 # Diagrama de Sequência
 
