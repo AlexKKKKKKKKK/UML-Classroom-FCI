@@ -18,14 +18,14 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 **V1.0:**
 
-*Documentação e Análise de Requisitos
-*Diagrama de Atividade
-*Diagrama de Casos de Usos
-*Descrição dos Requisitos dos Casos de Usos
+* Documentação e Análise de Requisitos
+* Diagrama de Atividade
+* Diagrama de Casos de Usos
+* Descrição dos Requisitos dos Casos de Usos
 
 **V2.0**
 
-*Diagrama de Sequência
-*Diagrama de Classes
-*Diagrama de Estado
-*Diagrama de Implantação
+* Diagrama de Sequência
+* Diagrama de Classes
+* Diagrama de Estado
+* Diagrama de Implantação

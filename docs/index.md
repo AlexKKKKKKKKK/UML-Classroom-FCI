@@ -115,20 +115,22 @@ Caso aluno esteja com presença abaixo de 80%, notifica os responsáveis
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![alt text](DiagramaDeSequencia.png "Diagrama de Sequência")
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![alt text](DiagramaDeClasses.png "Diagrama de Classes")
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![alt text](DiagramaDeEstados.png "Diagrama de Estados")
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![alt text](DiagramaDeImplantacao.png "Diagrama de Implantacao")
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.).
+
+SOMMERVILLE, I. Engenharia de software. 10. ed. São Paulo: Pearson Education do Brasil, 2018.
